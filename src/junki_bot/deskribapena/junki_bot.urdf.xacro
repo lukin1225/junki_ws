@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<robot xmlns:xacro="http://www.ros.org/wiki/xacro"  name="junki_bot">
+
+    <xacro:include filename="deskribapena.xacro" />
+    <xacro:include filename="gazebo_kontrola.xacro" />
+    <xacro:include filename="lidar.xacro" />
+   
+</robot>
